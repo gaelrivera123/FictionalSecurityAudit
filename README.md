@@ -22,7 +22,7 @@ This project revolves around writing an internal security audit. It details the 
 <h2>Project walk-through:</h2>
 
 <p align="left">
-Review the scope, goals, and risk assessment report. A report may look something like this: https://tinyurl.com/27dlocpa <br/>
+Review the scope, goals, and risk assessment report. A report may look something like this: https://tinyurl.com/27dlocpa
 
 Complete a controls and compliance checklist. This checklist may look something like this: https://tinyurl.com/27mx62bw <br/>
 
