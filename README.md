@@ -1,7 +1,7 @@
 # Internal Security Audit
 
 <h2>Description</h2>
-This project revolves around writing an internal security audit. It details the processes and procedures that are done when performing a security audit. Specifically however, this project will feature performing an internal audit by completing a controls and compliance checklist when given a scope, goals, and risk assessment report. <br />
+This project revolves around writing an internal security audit. It details the processes and procedures that are done when performing a security audit. Specifically however, this project will feature 2 elements of performing an internal audit by completing a controls and compliance checklist when given a scope, goals, and risk assessment report. <br />
 
 
 <h2>Tools Needed</h2>
